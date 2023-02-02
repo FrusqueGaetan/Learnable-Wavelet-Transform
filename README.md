@@ -2,7 +2,8 @@
 Code tu use learnable wavelet transforms like L-WPT and DeSPaWN methods in pytorch 
 
 
-Implementation of the L-WPT [1], [2] and Despawn (L-DWT) [3]. Read me in progress
+Implementation of the L-WPT [1], [2] and Despawn (L-DWT) [3]. L-WPT is a learnable extension of the Wavelet Packet Transform while Despawn (L-DWT) is a learnable extension of the Discrete Wavelet Transform.
+Both architecture can be called using the class NeuralDWAV.py (Neural Discrete Wavelet). Read me in progress
 
 [1] Frusque, G., & Fink, O. (2022). Robust time series denoising with learnable wavelet packet transform. arXiv preprint arXiv:2206.06126.
 
