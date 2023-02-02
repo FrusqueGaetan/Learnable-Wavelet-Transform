@@ -1,5 +1,5 @@
 # Learnable-Wavelet-Transform
-Code tu use learnable wavelet transforms like L-WPT and DeSPaWN methods in pytorch 
+Code to use learnable wavelet transforms like L-WPT and DeSPaWN methods in pytorch 
 
 
 Implementation of the L-WPT [1], [2] and Despawn (L-DWT) [3]. L-WPT is a learnable extension of the Wavelet Packet Transform while Despawn (L-DWT) is a learnable extension of the Discrete Wavelet Transform.
