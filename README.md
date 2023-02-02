@@ -2,7 +2,7 @@
 Code tu use learnable wavelet transforms like L-WPT and DeSPaWN methods in pytorch 
 
 
-Implementation of the L-WPT [1], [2] and Despawn [3]. Read me in progress
+Implementation of the L-WPT [1], [2] and Despawn (L-DWT) [3]. Read me in progress
 
 [1] Frusque, G., & Fink, O. (2022). Robust time series denoising with learnable wavelet packet transform. arXiv preprint arXiv:2206.06126.
 
