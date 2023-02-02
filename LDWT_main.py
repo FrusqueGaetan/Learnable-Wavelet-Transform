@@ -8,7 +8,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 Np=2**13#Number of sample in the signals
 Generator = Utils.Generator_test(Np)
 LDWT = NeuralDWAV.NeuralDWAV(Np,
-                              Input_Level=8,#WPT with 5 level resulting to 32 outputs
+                              Input_Level=8,#DWT with 8 level resulting in 9 outputs
                               Input_Archi="DWT")
 
 
